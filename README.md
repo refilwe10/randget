@@ -22,6 +22,7 @@ Android Budget Tracker app for personal finance management
 <img width="159" height="328" alt="login" src="https://github.com/user-attachments/assets/03b358d8-3282-45bc-892a-00c3a333270e" />
 <img width="154" height="289" alt="list" src="https://github.com/user-attachments/assets/7cf8fafe-e397-443f-89b2-00d3e15c2068" />
 <img width="143" height="299" alt="ExpenseEntry" src="https://github.com/user-attachments/assets/e170c874-b57e-42ef-a216-132b41947112" />
+<img width="136" height="302" alt="Expense entry" src="https://github.com/user-attachments/assets/db04566e-d1ef-4abf-a681-4cd390c83b60" />
 
 
 
