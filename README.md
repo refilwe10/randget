@@ -18,6 +18,16 @@ Android Budget Tracker app for personal finance management
 
 ## 📸 Screenshots
 
+<img width="159" height="328" alt="login" src="https://github.com/user-attachments/assets/27ee3b7d-9b6f-4fb1-8b76-10d4f8aad53d" />
+<img width="159" height="328" alt="login" src="https://github.com/user-attachments/assets/03b358d8-3282-45bc-892a-00c3a333270e" />
+<img width="154" height="289" alt="list" src="https://github.com/user-attachments/assets/7cf8fafe-e397-443f-89b2-00d3e15c2068" />
+<img width="143" height="299" alt="ExpenseEntry" src="https://github.com/user-attachments/assets/e170c874-b57e-42ef-a216-132b41947112" />
+
+
+
+
+
+
 ## 🛠️ Technology Stack
 
 | Technology | Version | Purpose |
